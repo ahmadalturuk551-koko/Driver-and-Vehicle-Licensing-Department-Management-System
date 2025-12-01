@@ -1,0 +1,9 @@
+C:\Users\ahmed\source\repos\DVLD1\DataBusinessLayer\bin\Debug\DataBusinessLayer.dll
+C:\Users\ahmed\source\repos\DVLD1\DataBusinessLayer\bin\Debug\DataBusinessLayer.pdb
+C:\Users\ahmed\source\repos\DVLD1\DataBusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ahmed\source\repos\DVLD1\DataBusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ahmed\source\repos\DVLD1\DataBusinessLayer\obj\Debug\DataBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\DVLD1\DataBusinessLayer\obj\Debug\DataBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\DVLD1\DataBusinessLayer\obj\Debug\DataBusi.8B057C7C.Up2Date
+C:\Users\ahmed\source\repos\DVLD1\DataBusinessLayer\obj\Debug\DataBusinessLayer.dll
+C:\Users\ahmed\source\repos\DVLD1\DataBusinessLayer\obj\Debug\DataBusinessLayer.pdb

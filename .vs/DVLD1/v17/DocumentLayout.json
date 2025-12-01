@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|c:\\users\\ahmed\\source\\repos\\dvld1\\dvld1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dvld1\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9889EC-8E32-4661-84DB-F5AD60CC8814}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dataaccesslayer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9889EC-8E32-4661-84DB-F5AD60CC8814}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9889EC-8E32-4661-84DB-F5AD60CC8814}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dataaccesslayer\\clsapplicationtypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9889EC-8E32-4661-84DB-F5AD60CC8814}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsapplicationtypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622B3E49-A12A-44F8-8D81-E66F47878403}|DataBusinessLayer\\DataBusinessLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\databusinesslayer\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B3E49-A12A-44F8-8D81-E66F47878403}|DataBusinessLayer\\DataBusinessLayer.csproj|solutionrelative:databusinesslayer\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9889EC-8E32-4661-84DB-F5AD60CC8814}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dataaccesslayer\\clsdetaindlicensesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9889EC-8E32-4661-84DB-F5AD60CC8814}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\clsdetaindlicensesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dvld1\\applications\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\applications\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622B3E49-A12A-44F8-8D81-E66F47878403}|DataBusinessLayer\\DataBusinessLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\databusinesslayer\\clsapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B3E49-A12A-44F8-8D81-E66F47878403}|DataBusinessLayer\\DataBusinessLayer.csproj|solutionrelative:databusinesslayer\\clsapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dvld1\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dvld1\\applications\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\applications\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dvld1\\applications\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\applications\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dvld1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dvld1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dvld1\\applications\\frmreplacmentlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\applications\\frmreplacmentlostordamaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|C:\\Users\\ahmed\\source\\repos\\DVLD1\\dvld1\\applications\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B82447-E7EA-4EF0-B783-4A8E9CFAEEBD}|DVLD1\\PresentationLayer.csproj|solutionrelative:dvld1\\applications\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Program.cs",
+              "RelativeDocumentMoniker": "DVLD1\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Program.cs",
+              "RelativeToolTip": "DVLD1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:43:11.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLoginScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\frmLoginScreen.cs",
+              "RelativeDocumentMoniker": "DVLD1\\frmLoginScreen.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\frmLoginScreen.cs [Design]",
+              "RelativeToolTip": "DVLD1\\frmLoginScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:43:09.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\clsDataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "DataAccessLayer\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:48:27.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataBusinessLayer\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "DataBusinessLayer\\clsDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataBusinessLayer\\clsDetainedLicense.cs",
+              "RelativeToolTip": "DataBusinessLayer\\clsDetainedLicense.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA6wFQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:58:18.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsApplicationTypeData.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataAccessLayer\\clsApplicationTypeData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\clsApplicationTypeData.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataAccessLayer\\clsApplicationTypeData.cs",
+              "RelativeToolTip": "DataAccessLayer\\clsApplicationTypeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:57:41.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataBusinessLayer\\clsApplicationType.cs",
+              "RelativeDocumentMoniker": "DataBusinessLayer\\clsApplicationType.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataBusinessLayer\\clsApplicationType.cs",
+              "RelativeToolTip": "DataBusinessLayer\\clsApplicationType.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwC8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:57:00.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmReleaseDetainedLicense.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "DVLD1\\Applications\\frmReleaseDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmReleaseDetainedLicense.cs",
+              "RelativeToolTip": "DVLD1\\Applications\\frmReleaseDetainedLicense.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:39:10.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmReleaseDetainedLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "DVLD1\\Applications\\frmReleaseDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmReleaseDetainedLicense.cs [Design]",
+              "RelativeToolTip": "DVLD1\\Applications\\frmReleaseDetainedLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:35:47.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDetainLicense.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "DVLD1\\Applications\\frmDetainLicense.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmDetainLicense.cs",
+              "RelativeToolTip": "DVLD1\\Applications\\frmDetainLicense.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAgwE4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:32:25.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsDetaindLicensesData.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataAccessLayer\\clsDetaindLicensesData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\clsDetaindLicensesData.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DataAccessLayer\\clsDetaindLicensesData.cs",
+              "RelativeToolTip": "DataAccessLayer\\clsDetaindLicensesData.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAWwGsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:35:02.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmScheduleTest.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Tests\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "DVLD1\\Tests\\frmScheduleTest.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Tests\\frmScheduleTest.cs",
+              "RelativeToolTip": "DVLD1\\Tests\\frmScheduleTest.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:15:47.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDetainLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "DVLD1\\Applications\\frmDetainLicense.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmDetainLicense.cs [Design]",
+              "RelativeToolTip": "DVLD1\\Applications\\frmDetainLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:17:26.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmReplacmentLostOrDamaged.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmReplacmentLostOrDamaged.cs",
+              "RelativeDocumentMoniker": "DVLD1\\Applications\\frmReplacmentLostOrDamaged.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\Applications\\frmReplacmentLostOrDamaged.cs",
+              "RelativeToolTip": "DVLD1\\Applications\\frmReplacmentLostOrDamaged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:20:31.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\frmMain.cs",
+              "RelativeDocumentMoniker": "DVLD1\\frmMain.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\frmMain.cs",
+              "RelativeToolTip": "DVLD1\\frmMain.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAhwIoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:00:09.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\frmMain.cs",
+              "RelativeDocumentMoniker": "DVLD1\\frmMain.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\DVLD1\\DVLD1\\frmMain.cs [Design]",
+              "RelativeToolTip": "DVLD1\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:57:47.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
